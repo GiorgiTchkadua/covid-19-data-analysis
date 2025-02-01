@@ -1,6 +1,3 @@
-# covid-19-data-analysis
-SQL queries for analyzing COVID-19 data across various locations, focusing on key metrics such as new cases, deaths, population, infection rates, and trends over time.
-
 # COVID-19 Data Analysis - SQL Queries
 
 This repository contains SQL queries designed to perform data analysis on COVID-19 statistics. The project aims to explore and process data related to COVID-19 deaths, cases, population statistics, and trends over time, categorized by location (countries and continents). 
